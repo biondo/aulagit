@@ -1,1 +1,4 @@
 testet
+<?php
+ inpho();
+?>
