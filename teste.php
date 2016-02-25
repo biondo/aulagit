@@ -1,4 +1,4 @@
-testet
+
 <?php
- inpho();
+ phpinfo();
 ?>
